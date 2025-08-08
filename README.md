@@ -1,16 +1,26 @@
-## Hi there 👋
+# Victor here, nice to meet you ☀️
 
-<!--
-**Vlemrc/Vlemrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate french web developer based in Paris who loves combining **technical excellence** with **aesthetic design**.  
+Currently pursuing a master's degree.
 
-Here are some ideas to get you started:
+## About me
+- 🔭 Working on web development projects using JS, TypeScript, React & Next.
+- 🎓 Master’s student in Full Stack Development.
+- 💡 Passionate about UI/UX, and creative problem-solving
+- 🌱 Currently exploring Next.js, Three.js, and AI integrations  
+- ⚡ Fun fact: I’m also a fan of manga, mode, sport and music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like
+- Writing maintainable and scalable code  
+- Building creative user interfaces  
+- Discovering new tools and frameworks  
+- Collaborating and learning in developer communities
+- Share my passion and talk about web development
+
+Feel free to check out my repositories and connect with me!
+
+---
+
+🦖 N'hésite pas à me contacter ! (un peu de français ne fait pas de mal quand même ☺️🇫🇷)
+
+[LinkedIn](https://www.linkedin.com/in/victor-lemercier) | [Email](mailto:victorlemercier.dev@gmail.com)
