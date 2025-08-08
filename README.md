@@ -8,7 +8,7 @@ Currently pursuing a master's degree.
 - 🎓 Master’s student in Full Stack Development.
 - 💡 Passionate about UI/UX, and creative problem-solving
 - 🌱 Currently exploring Next.js, Three.js, and AI integrations  
-- ⚡ Fun fact: I’m also a fan of manga, mode, sport and music.
+- ⚡ I'm a big fan of manga, mode, sport and music.
 
 ## What I like
 - Writing maintainable and scalable code  
